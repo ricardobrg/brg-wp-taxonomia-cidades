@@ -1,7 +1,9 @@
 <?php
 /*
 Plugin Name: BRG - Cidades e Estados do Brasil
-Description: EM DESENVOLVIMENTO - Plugin em desenvolvimento para facilitar a importação de cidades e estados. Cria também a base para um menu suspenso de cidades que será povoado por AJAX de acordo com a seleção do estado. Baseado no código de @brunomarks (https://gist.github.com/brunomarks/8851573).
+Description: EM DESENVOLVIMENTO - Plugin em desenvolvimento para facilitar a importação de cidades e estados. 
+Cria também a base para um menu suspenso de cidades que será povoado por AJAX de acordo com a seleção do estado. 
+Baseado no código de @brunomarks (https://gist.github.com/brunomarks/8851573).
 Version: 0.1
 Author: BRGWeb
 Author URI: http://brgweb.com.br
